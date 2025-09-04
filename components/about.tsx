@@ -32,7 +32,7 @@ export function About() {
           <h2 className="text-3xl sm:text-4xl font-bold text-balance mb-6">About Me</h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto text-pretty">
             Passionate Software Engineering student at INSAT, I combine technical skills in fullstack web development
-            with experience in event organization. Rigorous and attracted to innovation, I am seeking an internship to
+            with experience in community activities. Rigorous and attracted to innovation, I am seeking an internship to
             enrich my expertise in software development, AI, DevOps and blockchain.
           </p>
         </div>
